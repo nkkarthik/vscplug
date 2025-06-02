@@ -1,0 +1,8 @@
+node_modules
+*.tsbuildinfo
+out
+.vscode
+.vscode-test
+package-lock.json
+README.md
+src/**/*.spec.ts
